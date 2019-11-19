@@ -5,6 +5,6 @@
   int main()
   {
     std::cout<<"Hola mundo..."<<endl;
-    return 0];
+    return 0;
   }
   
